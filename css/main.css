@@ -1,0 +1,56 @@
+* {
+	font-family: Open Sans;
+}
+
+.foto {
+	height: 250px;
+	width: 400px;
+	margin-left: 13px;
+}
+
+.logo {
+	position: absolute;
+	width: 470px;
+	left: 380px;
+	bottom: 490px;
+}
+
+h3 {
+	margin-left: 13px;
+}
+
+nav {
+	position: absolute;
+	left: 900px;
+	bottom: 570px;
+}
+
+a {
+	text-decoration: none;
+	padding: 10px;
+	color: #432C03;
+
+}
+.botón {
+	width: 100px;
+	height: 30px;
+	background-color: #FCB739;
+	border-radius: 5px;
+	position: absolute;
+	left: 130px;
+	top: 80px;
+	padding-top: 8px;
+	text-align: center;
+}
+
+footer {  
+	background-color: #323230;
+	padding-top: 10px;
+    margin-top: 300px;
+    color: white;
+}
+
+h4 {
+	padding-bottom: 30px;
+	padding-left: 40px;
+}
